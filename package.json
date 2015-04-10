@@ -1,0 +1,29 @@
+{
+  "name": "jstransformer-styl",
+  "version": "0.0.1",
+  "description": "JSTransformer support for styl.",
+  "keywords": [
+    "jstransformer",
+    "styl"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "istanbul": "^0.3.5",
+    "testit": "^2.0.2"
+  },
+  "scripts": {
+    "test": "node test",
+    "coverage": "istanbul cover test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstransformers/jstransformer-styl.git"
+  },
+  "author": "Rob Loach <robloach@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "styl": "^0.2.9"
+  }
+}
