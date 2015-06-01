@@ -1,9 +1,10 @@
 # jstransformer-styl
 
-JSTransformer support for [styl](https://github.com/tj/styl).
+[Styl](https://github.com/tj/styl) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-styl/master.svg)](https://travis-ci.org/jstransformers/jstransformer-styl)
 [![Coverage Status](https://img.shields.io/coveralls/jstransformers/jstransformer-styl/master.svg)](https://coveralls.io/r/jstransformers/jstransformer-styl?branch=master)
+[![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-styl/master.svg)](http://david-dm.org/jstransformers/jstransformer-styl)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-styl.svg)](https://www.npmjs.org/package/jstransformer-styl)
 
 ## Installation
