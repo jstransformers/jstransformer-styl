@@ -1,7 +1,7 @@
 {
   "name": "jstransformer-styl",
   "version": "0.1.0",
-  "description": "Foo support for JSTransformers.",
+  "description": "Styl support for JSTransformers.",
   "keywords": [
     "jstransformer",
     "styl"
