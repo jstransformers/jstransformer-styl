@@ -1,7 +1,7 @@
 {
   "name": "jstransformer-styl",
-  "version": "0.0.1",
-  "description": "JSTransformer support for styl.",
+  "version": "0.1.0",
+  "description": "Styl support for JSTransformers.",
   "keywords": [
     "jstransformer",
     "styl"
@@ -10,12 +10,11 @@
     "index.js"
   ],
   "devDependencies": {
-    "istanbul": "^0.3.5",
-    "testit": "^2.0.2"
+    "test-jstransformer": "^1.0.0"
   },
   "scripts": {
-    "test": "node test",
-    "coverage": "istanbul cover test"
+    "test": "test-jstransformer",
+    "coverage": "test-jstransformer coverage"
   },
   "repository": {
     "type": "git",
