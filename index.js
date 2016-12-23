@@ -1,10 +1,10 @@
-'use strict';
+'use strict'
 
-var styl = require('styl');
+var styl = require('styl')
 
-exports.name = 'styl';
-exports.outputFormat = 'css';
+exports.name = 'styl'
+exports.outputFormat = 'css'
 
 exports.render = function (str, options) {
-  return styl(str, options).toString();
-};
+  return styl(str, options).toString()
+}
