@@ -1,9 +1,10 @@
 {
   "dependencies": {
+    "extend-shallow": "^2.0.1",
     "styl": "^0.2.9"
   },
   "name": "jstransformer-styl",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Styl support for JSTransformers.",
   "keywords": [
     "jstransformer",
@@ -14,7 +15,7 @@
   ],
   "devDependencies": {
     "test-jstransformer": "^1.0.0",
-    "xo": "^0.17.1"
+    "xo": "*"
   },
   "scripts": {
     "coverage": "test-jstransformer coverage",
