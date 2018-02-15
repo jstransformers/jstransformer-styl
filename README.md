@@ -17,11 +17,11 @@
 ```js
 var styl = require('jstransformer')(require('jstransformer-styl'))
 
-var input = "#logo\
+var input = `#logo\
   width: 50px\
   height: @width\
   absolute: top 100px left 50%\
-  background: linear-gradient(top, black, white)";
+  background: linear-gradient(top, black, white)`
 
 styl.render(input, { whitespace: true }).body
 ```
