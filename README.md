@@ -1,7 +1,5 @@
 # jstransformer-styl
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-styl.svg)](https://greenkeeper.io/)
-
 [Styl](https://github.com/tj/styl) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-styl/master.svg)](https://travis-ci.org/jstransformers/jstransformer-styl)
