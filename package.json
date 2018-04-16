@@ -1,9 +1,10 @@
 {
   "dependencies": {
+    "extend-shallow": "^3.0.2",
     "styl": "^0.2.9"
   },
   "name": "jstransformer-styl",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Styl support for JSTransformers.",
   "keywords": [
     "jstransformer",
@@ -19,7 +20,7 @@
   "scripts": {
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer",
-    "posttest": "xo --space --no-semicolon index.js"
+    "posttest": "xo --space=2 --no-semicolon index.js"
   },
   "engines": {
     "node": ">=4"
